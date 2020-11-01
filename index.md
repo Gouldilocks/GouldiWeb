@@ -1,11 +1,20 @@
 # Christian Gould
 
-<img src="IMG_4508.jpg" alt="Christian Gould picture"
-	title="ChristianPic"  width = "512px" height = "394px"/>
+<img src="340-448-737_4fyq_425.jpg" alt="Christian Gould picture"
+	title="ChristianPic" width = "600px" height = "750px" />
 
 Hello! My name is Christian Gould, I am a young, aspiring software engineer currently studying computer science at SMU.
 
 I am a sophomore, currently taking Data Structures, and will be taking algorithms in the spring.
+## Relevant Classes
+```
+-Java
+
+-C++
+-Discrete Computational Structures
+-Data Structures
+-Introduction to Engineering Design
+```
 ## Projects
 
 ### Sentiment Analysis
