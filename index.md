@@ -1,14 +1,17 @@
 # Christian Aaron Gould
 Phone #: 469-471-1845
+
 Email: cagould@smu.edu
 
-
-<img src="340-448-737_4fyq_425.jpg" alt="Christian Gould picture"
-	title="ChristianPic" width = "600px" height = "750px" />
+[github](https://github.com/Gouldilocks)
 
 Hello! My name is Christian Gould, I am a young, aspiring software engineer currently studying computer science at SMU.
 
 I am a sophomore, currently taking Data Structures, and will be taking algorithms in the spring.
+
+<img src="340-448-737_4fyq_425.jpg" alt="Christian Gould picture"
+	title="ChristianPic" width = "600px" height = "750px" />
+
 ## Relevant Classes
 ```
 -Java
