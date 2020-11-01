@@ -29,12 +29,14 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
 -In the project, the first 40,000 reviews were used in order to create a classifier from a lexiconical approach.
 -The final 10,000 reviews were tested using the classifier and produced 51% accuracy.
 ```
+
 ### Auto-Indexer
 ```
 -Used custom vector and linked-list classes for the project.
 -An input file was given, which listed words and subcategories.
 -Each of the words were printed in the output file with its corresponding page numbers.
 ```
+
 ### Algorithm Analysis
 ```
 -Program analysed the number of comparisons made by 6 different sorting algorithms: 
@@ -42,6 +44,7 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
 -A total of 30 data sets were used, with 10 varying sizes, and 3 arrangements:
   in-order, reverse order, and randomized order.
   ```
+  
  ### Flight Planner
  ```
  -Program did an exhaustive search using iterative backtracking for constraing optimization.
@@ -51,10 +54,9 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
  -The iterative backtracking algorithm used a stack in order to keep track of where in the list it was.
  -The output file consisted of the top three flight combinations to achieve the requested flights.
  ```
+ 
 ## Accomplishments
-```
 
-```
 ## Relevant Work Experience
 ```
 1. Fall 2020: TA for KNW 2300
