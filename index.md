@@ -15,7 +15,6 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
 ## Relevant Classes
 ```
 -Java
-
 -C++
 -Discrete Computational Structures
 -Data Structures
@@ -53,7 +52,19 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
  -The output file consisted of the top three flight combinations to achieve the requested flights.
  ```
 ## Accomplishments
+```
 
-## Work Experience
-
+```
+## Relevant Work Experience
+```
+1. Fall 2020: TA for KNW 2300
+	-Worked with students based upon an Agile workflow
+	-Debug Arduino C code
+	-Debug electrical wiring
+```
 ## Hobbies and Interests
+```
+-I love reading about and driving old American cars, I can in fact name off all 22 trim levels of the Dodge challenger.
+-I like to work on calligraphy whenever I get the chance, at home I love to practice with my various dip pens.
+-Working out and lifting weights is a passion of mine, I am working currently towards my personal trainer's certification.
+```
