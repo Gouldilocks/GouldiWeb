@@ -10,7 +10,7 @@ Hello! My name is Christian Gould, I am a young, aspiring software engineer curr
 I am a sophomore, currently taking Data Structures, and will be taking algorithms in the spring.
 
 <img src="340-448-737_4fyq_425.jpg" alt="Christian Gould picture"
-	title="ChristianPic" width = "600px" height = "750px" />
+	title="ChristianPic" width = "300px" height = "375px" />
 
 ## Relevant Classes
 ```
