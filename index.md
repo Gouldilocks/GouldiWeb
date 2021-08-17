@@ -7,9 +7,9 @@ Email: cagould@smu.edu
 
 Hello! My name is Christian Gould, I am a young, aspiring software engineer currently studying computer science at SMU.
 
-I am a sophomore, currently taking Data Structures, and will be taking algorithms in the spring.
+I am a Junior, currently taking Databases.
 
-<img src="340-448-737_4fyq_425.jpg" alt="Christian Gould picture"
+<img src="340-448-737_4fyq_425.jpg" alt="Picture of Christian Gould"
 	title="ChristianPic" width = "300px" height = "375px" />
 
 ## Relevant Classes
@@ -19,6 +19,7 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
 -Discrete Computational Structures
 -Data Structures
 -Introduction to Engineering Design
+-Algorithms
 ```
 ## Projects
 
@@ -55,18 +56,24 @@ I am a sophomore, currently taking Data Structures, and will be taking algorithm
  -The output file consisted of the top three flight combinations to achieve the requested flights.
  ```
  
-## Accomplishments
-
 ## Relevant Work Experience
 ```
 1. Fall 2020: TA for KNW 2300
 	-Worked with students based upon an Agile workflow
 	-Debug Arduino C code
 	-Debug electrical wiring
+	
+2. Summer 2021: Internship at McKesson
+	-Worked with a team of 6 software engineers, and 1 project manager
+	-Workflow was an AGILE setup
+	-Created from scratch in Java the McKesson Diagnostics Library for use by all of the Automation and Mobility department
+		-This library was to be a debug library for use in finding bugs in code. Its main function was to print out the
+		call stack in order to help engineers better debug their code.
+		-Written using CDI, in order to allow for easy expandability of the library.
 ```
 ## Hobbies and Interests
 ```
 -I love reading about and driving old American cars, I can in fact name off all 22 trim levels of the Dodge challenger.
 -I like to work on calligraphy whenever I get the chance, at home I love to practice with my various dip pens.
--Working out and lifting weights is a passion of mine, I am working currently towards my personal trainer's certification.
+-Working out and lifting weights is a passion of mine, I am working towards my personal trainer's certification.
 ```
