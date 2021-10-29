@@ -20,8 +20,31 @@ I am a Junior, currently taking Databases.
 -Data Structures
 -Introduction to Engineering Design
 -Algorithms
+-Databases
 ```
 ## Projects
+
+### Java Grading Program
+```
+- Developed in Shell and Python
+- Connects to Canvas using the Canvas API
+- Downloads all the submissions of students given in a text file
+- Fixes the directories fo the students who do not follow normal submission guidelines
+- Compiles all java projects students submit
+- Runs all java projects using Expect scripts which send inputs to the program
+- Saves the outputs of all the programs that are run
+- Posts comments and grades using the Canvas API
+```
+
+### Data Structures Grading Program
+```
+- Developed in Shell and Python
+- Clones all github repositories of students to be graded
+- Runs all cmake projects the students made with text file arguments
+- Runs valgrind on each cmake project
+- Scans the valgrind output file for lost blocks and presents it to the user
+- Posts grades and comments on canvas
+```
 
 ### Sentiment Analysis
 ```
@@ -46,7 +69,7 @@ I am a Junior, currently taking Databases.
   in-order, reverse order, and randomized order.
   ```
   
- ### Flight Planner
+### Flight Planner
  ```
  -Program did an exhaustive search using iterative backtracking for constraing optimization.
  -Custom stack adapter class as well as adjacency list wrapper class was made from scratch.
