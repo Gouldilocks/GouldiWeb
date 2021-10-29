@@ -25,6 +25,7 @@ I am a Junior, currently taking Databases.
 ## Projects
 
 ### Java Grading Program
+[Github Link](https://github.com/Gouldilocks/Java-Grading-Script)
 ```
 - Developed in Shell and Python
 - Connects to Canvas using the Canvas API
@@ -37,6 +38,7 @@ I am a Junior, currently taking Databases.
 ```
 
 ### Data Structures Grading Program
+[Github Link](https://github.com/Gouldilocks/DataStructuresScripting)
 ```
 - Developed in Shell and Python
 - Clones all github repositories of students to be graded
@@ -47,6 +49,7 @@ I am a Junior, currently taking Databases.
 ```
 
 ### Sentiment Analysis
+
 ```
 -Used a custom wrapper for c-strings for all data input, with char arrays only being used when inputting from a file.
 -Dataset consisted of 50,000 pre-sorted movie reviews.
@@ -55,6 +58,7 @@ I am a Junior, currently taking Databases.
 ```
 
 ### Auto-Indexer
+
 ```
 -Used custom vector and linked-list classes for the project.
 -An input file was given, which listed words and subcategories.
@@ -62,6 +66,7 @@ I am a Junior, currently taking Databases.
 ```
 
 ### Algorithm Analysis
+
 ```
 -Program analysed the number of comparisons made by 6 different sorting algorithms: 
   Gnome sort, insertion sort, quick sort, merge sort, selection sort, and bubble sort.
@@ -70,6 +75,7 @@ I am a Junior, currently taking Databases.
   ```
   
 ### Flight Planner
+
  ```
  -Program did an exhaustive search using iterative backtracking for constraing optimization.
  -Custom stack adapter class as well as adjacency list wrapper class was made from scratch.
@@ -81,12 +87,16 @@ I am a Junior, currently taking Databases.
  
 ## Relevant Work Experience
 ```
-1. Fall 2020: TA for KNW 2300
+1. Fall 2020, Spring 2021, Fall 2021: TA for KNW 2300
 	-Worked with students based upon an Agile workflow
 	-Debug Arduino C code
 	-Debug electrical wiring
 	
-2. Summer 2021: Internship at McKesson
+2. Spring 2021, Fall 2021: TA for Data Structures
+	-Work with students to debug C++ code
+	-Assist students in creating custom data structures including: string, vector, linkedlist, hashmap, adjacency list
+	
+3. Summer 2021: Internship at McKesson
 	-Worked with a team of 6 software engineers, and 1 project manager
 	-Workflow was an AGILE setup
 	-Created from scratch in Java the McKesson Diagnostics Library for use by all of the Automation and Mobility department
