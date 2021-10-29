@@ -7,7 +7,7 @@ Email: cagould@smu.edu
 
 Hello! My name is Christian Gould, I am a young, aspiring software engineer currently studying computer science at SMU.
 
-I am a Junior, currently taking Databases.
+I am currently a Junior as SMU, taking Dab.
 
 <img src="340-448-737_4fyq_425.jpg" alt="Picture of Christian Gould"
 	title="ChristianPic" width = "300px" height = "375px" />
@@ -48,8 +48,16 @@ I am a Junior, currently taking Databases.
 - Posts grades and comments on canvas
 ```
 
-### Sentiment Analysis
+### Search Engine
+[Github Link](https://github.com/Gouldilocks/Search-Engine)
+```
+-Parses .Json Articles, developed in C++ over 3 weeks
+-Created a Hashmap and AVL tree data structure, and used each to store information from the 100,000 .json articles from the CORD-19 dataset
+-Parsed through all 100,000 .json files in approx. 26.5 seconds, and the user could search for Authors and words in the dataset, and be returned the id of the article containing the search
+```
 
+### Sentiment Analysis
+[Github Link](https://github.com/Gouldilocks/sentAnalysis)
 ```
 -Used a custom wrapper for c-strings for all data input, with char arrays only being used when inputting from a file.
 -Dataset consisted of 50,000 pre-sorted movie reviews.
@@ -57,25 +65,25 @@ I am a Junior, currently taking Databases.
 -The final 10,000 reviews were tested using the classifier and produced 51% accuracy.
 ```
 
+### Algorithm Analysis
+[Github Link](https://github.com/Gouldilocks/algoAnalysis)
+```
+-Program analysed the number of comparisons made by 6 different sorting algorithms: 
+  Gnome sort, insertion sort, quick sort, merge sort, selection sort, and bubble sort.
+-A total of 30 data sets were used, with 10 varying sizes, and 3 arrangements:
+  in-order, reverse order, and randomized order.
+ ```
+  
 ### Auto-Indexer
-
+[Github Link](https://github.com/Gouldilocks/autoIndexer.git)
 ```
 -Used custom vector and linked-list classes for the project.
 -An input file was given, which listed words and subcategories.
 -Each of the words were printed in the output file with its corresponding page numbers.
 ```
 
-### Algorithm Analysis
-
-```
--Program analysed the number of comparisons made by 6 different sorting algorithms: 
-  Gnome sort, insertion sort, quick sort, merge sort, selection sort, and bubble sort.
--A total of 30 data sets were used, with 10 varying sizes, and 3 arrangements:
-  in-order, reverse order, and randomized order.
-  ```
-  
 ### Flight Planner
-
+[Github Link](https://github.com/Gouldilocks/flightPlanner)
  ```
  -Program did an exhaustive search using iterative backtracking for constraing optimization.
  -Custom stack adapter class as well as adjacency list wrapper class was made from scratch.
