@@ -83,7 +83,7 @@ I am currently a Junior as SMU, taking Dab.
 ```
 
 ### Flight Planner
-[Github Link](https://github.com/Gouldilocks/flightPlanner)
+[Github Link](https://gitfront.io/r/Loggityloglog/84c4c0ae22bf3f951cd6a7896064ad17df83c3fb/flightPlanner/)
  ```
  -Program did an exhaustive search using iterative backtracking for constraing optimization.
  -Custom stack adapter class as well as adjacency list wrapper class was made from scratch.
