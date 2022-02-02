@@ -7,7 +7,7 @@ Email: cagould@smu.edu
 
 Hello! My name is Christian Gould, I am a young, aspiring software engineer currently studying computer science at SMU.
 
-I am currently a Junior as SMU, taking Dab.
+I am currently a Junior as SMU, taking Applied Machine Learning and Natural Language Processing.
 
 <img src="340-448-737_4fyq_425.jpg" alt="Picture of Christian Gould"
 	title="ChristianPic" width = "300px" height = "375px" />
